@@ -7,8 +7,9 @@ Se instalo los siguientes librerias
 
 -pip install pydantic[email]
 
-* Se creó el CosmosDB en azure con el nombre acdb-wac-examen
+* Se creó el CosmosDB en azure con el nombre **acdb-wac-examen**
 * Los container se llaman *Usuarios* y *Proyectos*
+* Las credenciales tomarla del CosmosDB Configuracion>Claves
 
 ## USUARIO
 La creación de usuarios tienen las siguientes reglas
